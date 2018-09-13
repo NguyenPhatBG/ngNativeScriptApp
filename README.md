@@ -16,5 +16,8 @@ To verify the setup, run the tns doctor command which will check for any issues 
 NativeScript Advanced Setup: Windows <br/>
 https://docs.nativescript.org/angular/start/ns-setup-win <br/>
 
-TIP: To develop iOS applications on a Windows system or bypass the need to configure your environment for local Android development, you can use the cloud build service available in NativeScript Sidekick.
+TIP: To develop iOS applications on a Windows system or bypass the need to configure your environment for local Android development, you can use the cloud build service available in NativeScript Sidekick. <br/>
+https://www.nativescript.org/nativescript-sidekick <br/>
+
+
 
