@@ -31,3 +31,4 @@ Step 01: 'tns devices' does not find emulators <br/>
 tns device or tns devices gives you a list of all connected/started devices in the moment of executing the command. If you need to check available emulator images you can execute tns devices android --available-devices or tns devices ios --available-devices. <br/>
 Step 02: tns device <br/>
 Step 03: tns run (android || ios)
+Step 04: Select emulator (Genymotion)
