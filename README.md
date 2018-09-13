@@ -32,3 +32,6 @@ tns device or tns devices gives you a list of all connected/started devices in t
 Step 02: tns device <br/>
 Step 03: tns run (android || ios)
 Step 04: Select emulator (Genymotion)
+
+## Practice:
+1. https://docs.nativescript.org/angular/start/cli-basics <br/>
