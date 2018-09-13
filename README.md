@@ -22,7 +22,7 @@ https://www.nativescript.org/nativescript-sidekick <br/>
 ## Creating apps
 Basics of the NativeScript CLI <br/>
 https://docs.nativescript.org/angular/start/cli-basics#creating-apps <br/>
-Step 01: tns create HelloWorld --template tns-template-blank-ng
+Step 01: tns create HelloWorld --template tns-template-blank-ng <br/>
 Step 02: cd root folder project => tns run (android || ios)
 
 
