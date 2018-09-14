@@ -35,3 +35,7 @@ Step 04: Select emulator (Genymotion)
 
 ## Practice:
 1. https://docs.nativescript.org/angular/start/cli-basics <br/>
+
+## Debugging
+https://docs.nativescript.org/tooling/debugging/debugging <br/>
+https://docs.nativescript.org/tooling/debugging/debugging#debugging-with-visual-studio-code <br/>
