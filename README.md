@@ -41,3 +41,11 @@ Step 04: Select emulator (Genymotion)
 2. https://docs.nativescript.org/tooling/debugging/debugging#debugging-with-visual-studio-code <br/>
 tns debug (android || ios) <br/>
 3. https://docs.nativescript.org/tooling/visual-studio-code-extension <br/>
+
+## Core Concepts
+1. https://docs.nativescript.org/angular/core-concepts/technical-overview <br/>
+2. https://docs.nativescript.org/angular/core-concepts/android-runtime/overview#marshalling-service <br/>
+3. https://docs.nativescript.org/angular/core-concepts/ios-runtime/Overview <br/>
+4. https://docs.nativescript.org/angular/core-concepts/modules <br/>
+
+
